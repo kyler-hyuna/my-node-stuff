@@ -11,13 +11,6 @@ const config = {
   rectangle: 4,
 };
 
-const name = `My chickens are blue and green, and my favourite one is ${process.env.NAME}`;
-
-const names = [
-  'shem',
-  'askuydfhaksdfaksdfyasdfkyasdfasdfbakhsdbfhkasbfhkabdfhkabk',
-];
-
 switch (config.square) {
   case 4:
     console.log('helllo');
