@@ -14,7 +14,7 @@ const config = {
 const name = `My chickens are blue and green, and my favourite one is ${process.env.NAME}`;
 
 const names = [
-  'shem',
+  'alex',
   'askuydfhaksdfaksdfyasdfkyasdfasdfbakhsdbfhkasbfhkabdfhkabk',
 ];
 
